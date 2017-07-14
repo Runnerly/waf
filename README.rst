@@ -1,4 +1,5 @@
 Web Application Firewall
 ========================
 
-OpenResty Examples.
+This OpenResty configuration (in nginx.conf) demonstrates
+how a Flask application can be rate-limited using a Lua script.
